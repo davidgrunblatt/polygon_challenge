@@ -148,7 +148,7 @@ export default {
   }
   .question-card:hover {
     opacity: 0.5;
-    border: solid thick #000;
+    border: solid thin #000;
   }
   .v-text-field {
     height: 100px;
