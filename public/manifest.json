@@ -1,0 +1,18 @@
+{
+    "name": "HackerWeb",
+    "short_name": "HackerWeb",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#fff",
+    "description": "A readable Hacker News app.",
+    "icons": [{
+      "src": "./img/logo512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }, 
+    {
+      "src": "./img/logo192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }]
+  }
