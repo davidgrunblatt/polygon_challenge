@@ -15,11 +15,6 @@ npm run serve
 npm run build
 ```
 
-### Run your unit tests
-```
-npm run test:unit
-```
-
 ### Lints and fixes files
 ```
 npm run lint
@@ -27,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Docker
+docker run -it -p 8080:8080 --rm --name dockerize-polygon-1 vuejs-polygon/dockerize-vuejs-app
+
